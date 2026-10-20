@@ -54,11 +54,9 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/main/stats.svg" alt="Mis Estadísticas" />
+  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/main/metrics.svg" alt="Metrics" />
 </div>
-
 ###
 
 <div data-importer="profile-views" align="center">
