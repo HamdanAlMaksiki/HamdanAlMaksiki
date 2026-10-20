@@ -55,10 +55,8 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/main/stats.svg" alt="Mis Estadísticas" />
 </div>
 
 ###
