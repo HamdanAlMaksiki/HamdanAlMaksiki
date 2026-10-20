@@ -55,7 +55,11 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/main/metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/main/metrics.plugin.languages.svg" alt="Languages" />
+  <br>
+  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/main/metrics.plugin.achievements.svg" alt="Achievements" />
+  <br>
+  <img src="https://raw.githubusercontent.com/HamdanAlMaksiki/HamdanAlMaksiki/main/metrics.plugin.isocalendar.svg" alt="Contribution Graph" />
 </div>
 ###
 
